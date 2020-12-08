@@ -2,7 +2,7 @@
 title: "IoT: Comment éviter que l'UX et l'UI ne tuent un produit"
 description: "UX/UI design pour les IoT"
 authors: [oliviapradervand]
-tags: [IoT, UI, UI, Design, Application mobile, Objet connecté, Ergonomie, Architechture de l'information, Interactions, Data Analyst, Visualisation de données, Interaction, Futur ]
+tags: [Ergonomie, Technologie, Intéractions, User journey, Psychologie, Futur, Emotions]
 date: 2020-12-02T16:44:45+01:00
 draft: false
 

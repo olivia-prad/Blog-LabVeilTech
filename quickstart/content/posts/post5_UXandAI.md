@@ -2,7 +2,7 @@
 title: "Et si les intelligences artificielles avaient un coeur?"
 description: "Humanasing AI"
 authors: [oliviapradervand]
-tags: [UX, AI, Empathie, Technologie, Futur, Humain,]
+tags: [Psychologie, Emotions, Futur, Intéractions, Technologie]
 date: 2020-12-03T10:37:45+01:00
 draft: false
 

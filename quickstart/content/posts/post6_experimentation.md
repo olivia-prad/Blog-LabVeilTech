@@ -2,7 +2,7 @@
 title: "J'ai testé l'eye tracking. Ça s'est mal passé !"
 description: "Eye-tracking"
 authors: [oliviapradervand]
-tags: [Test, UX, Laboratoire, Expérimentation, Ergonomie, Vue, Contrast, Architechture de l'information, Interaction, Observation, Technologie]
+tags: [Ergonomie, User journey, Intéractions, Laboratoire, Emotions, Design, Technologie]
 date: 2020-12-06T11:42:45+01:00
 draft: false
 

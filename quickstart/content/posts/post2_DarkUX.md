@@ -2,7 +2,7 @@
 title: "Instagram...vraiment..? Toi aussi tu t'y mets?!"
 description: "Instagram et les Dark Patterns"
 authors: [oliviapradervand]
-tags: [UX, Dark Pattens, Instagram, Réseaux Sociaux, Comportements, Influence, Psychologie, User Journey, Design, UI, Ergonomie]
+tags: [Dark Pattens, Réseaux Sociaux, Psychologie, User Journey, Design, Ergonomie, Intéractions]
 date: 2020-11-27T19:12:45+01:00
 draft: false
 

@@ -2,7 +2,7 @@
 title: "Choisir son domaine, choisir son futur"
 description: "Choix d'un domaine"
 authors: [oliviapradervand]
-tags: [LabVeilTech, Domaine, UX, Analyse, Design]
+tags: [Futur]
 date: 2020-11-23T13:42:45+01:00
 draft: false
 
@@ -10,7 +10,6 @@ featuredImage : "images/img_post1.jpg"
 ---
 
 ## Choix d’un domaine, choix de mon futur
-
 
 Étant étudiante en dernière années [d’Ingénierie des médias](https://im.heig-vd.ch/), il est temps pour moi de choisir un domaine dans lequel faire mon travail de Bachelor. C’est une fillière assez large qui nous donne pas mal de possibilités, mais qui dit plus de choix, dit plus de doutes.
 

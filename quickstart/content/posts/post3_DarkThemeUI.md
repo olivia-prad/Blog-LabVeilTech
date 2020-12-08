@@ -2,7 +2,7 @@
 title: "Le Dark thème: Les bonnes pratiques de cette nouvelle tendance"
 description: "Design des modes sombres"
 authors: [oliviapradervand]
-tags: [UI, Design, Dark, Couleurs, Fonts, Contraste, Minimalisme, Ergonomie]
+tags: [Design, Ergonomie,]
 date: 2020-12-02T12:11:45+01:00
 draft: false
 
