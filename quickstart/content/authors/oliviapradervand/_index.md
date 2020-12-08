@@ -1,8 +1,8 @@
 +++
 # Name
 title = "Olivia Pradervand"
-role = "Étudiante"
-bio = "Étudiante en Ingénierie des médias, intéresée par le domainde de l'UX"
+role = "Étudiante en Ingénierie des médias"
+bio = "Blog sur l'UX/UI créé avec Hugo dans le cadre d'un cours de veille technologique."
 avatar = "images/oliviaprad.jpeg"
 
 [organization]
