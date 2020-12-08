@@ -2,9 +2,11 @@
 title: "Choisir son domaine, choisir son futur"
 description: "Choix d'un domaine"
 authors: [oliviapradervand]
-tags: [LabVeilTech]
+tags: [LabVeilTech, Domaine, UX, Analyse, Design]
 date: 2020-11-23T13:42:45+01:00
 draft: false
+
+featuredImage : "images/img_post1.jpg"
 ---
 
 ## Choix d’un domaine, choix de mon futur
@@ -18,10 +20,10 @@ Ce travail sur moi m’a permis de mieux me connaitre, de comprendre quelles ét
 
 Alors, vous pensez avoir trouvé quel domaine des médias me correspondrait le mieux ? 
 
-Personnellement je pense que je corresponds totalement à quelqu’un travaillant dans l’UX. Que ce soit **Analyste UX** ou **UX designer**, mon imagination et ma créativité combinés à mes forces et mes valeurs citées plus haut feraient de moi, je l’espère, un très bon atout dans ce métier.
+Personnellement je pense que je corresponds totalement à quelqu’un travaillant dans l’UX. Que ce soit **Analyste UX** ou **UX/UI designer**, mon imagination et ma créativité combinées à mes forces et mes valeurs citées plus haut feraient de moi, je l’espère, un très bon atout dans ce métier.
 
 
-C’est pour cela que j’ai décidé de créer un blog sur le thème de l’**UX**. Ici, vous trouverez des informations sur ce domaine avec ma petite touche pour donner mon avis. 
+C’est pour cela que j’ai décidé de créer un blog sur le thème de l’**UX/UI**. Ici, vous trouverez des informations sur ce domaine expliqué à ma manière. 
  
 
 À très vite pour le premier article !
