@@ -12,7 +12,7 @@
 <link rel="stylesheet" href="{{ $css.eureka.url }}">
 {{ end }}
 {{ else }}
-{{ $eureka_css := resources.Get "css/eureka.css" | postCSS (dict "config" "./assets/css/postcss.config.js") }}
+{{ $eureka_css := resources.Get "css/eureka.css" }}
 {{ $eureka_css := $eureka_css | minify }}
 <link rel="stylesheet" href="{{ $eureka_css.Permalink }}">
 {{ end }}
