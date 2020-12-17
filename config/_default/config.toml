@@ -1,4 +1,4 @@
-baseURL = "/Blog-LabVeilTech"
+baseURL = "https://olivia-prad.github.io/Blog-LabVeilTech/"
 title = "Blog Olivia Pradervand"
 
 # Comment when installing using Hugo Modules
