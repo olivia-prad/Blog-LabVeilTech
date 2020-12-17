@@ -1,3 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Laboratoire on Blog Olivia Pradervand</title><link>/tags/laboratoire/</link><description>Recent content in Laboratoire on Blog Olivia Pradervand</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&amp;copy; 2020 &lt;a href="https://www.wangchucheng.com/">C. Wang&lt;/a> and &lt;a href="https://www.ruiqima.com/">R. Ma&lt;/a></copyright><lastBuildDate>Sun, 06 Dec 2020 11:42:45 +0100</lastBuildDate><atom:link href="/tags/laboratoire/index.xml" rel="self" type="application/rss+xml"/><item><title>J'ai testé l'eye tracking. Ça s'est mal passé !</title><link>/posts/post6_experimentation/</link><pubDate>Sun, 06 Dec 2020 11:42:45 +0100</pubDate><guid>/posts/post6_experimentation/</guid><description>Qu&amp;rsquo;est-ce que l&amp;rsquo;eye-tracking ? Dans la recherche et l&amp;rsquo;analyse UX, les professionnel·le·s font appel à des individus pour mener des tests. Ceux-ci s&amp;rsquo;appellent tests UX et, même si certain se font sur le terrain, la plupart se font dans des laboratoires UX.
-Il y a plusieurs types de tests différents, selon les étapes auquelles le projet se trouve et les besoin. Il y a entre autre le A/B testing, le card sorting et l'eye-tracking.
-Tous les tests, que se soit à distance ou en présentiel, se déroulent de la même manière.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laboratoire on Blog Olivia Pradervand</title>
+    <link>https://olivia-prad.github.io/Blog-LabVeilTech/tags/laboratoire/</link>
+    <description>Recent content in Laboratoire on Blog Olivia Pradervand</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2020 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 06 Dec 2020 11:42:45 +0100</lastBuildDate><atom:link href="https://olivia-prad.github.io/Blog-LabVeilTech/tags/laboratoire/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>J&#39;ai testé l&#39;eye tracking. Ça s&#39;est mal passé !</title>
+      <link>https://olivia-prad.github.io/Blog-LabVeilTech/posts/post6_experimentation/</link>
+      <pubDate>Sun, 06 Dec 2020 11:42:45 +0100</pubDate>
+      
+      <guid>https://olivia-prad.github.io/Blog-LabVeilTech/posts/post6_experimentation/</guid>
+      <description>Qu&amp;rsquo;est-ce que l&amp;rsquo;eye-tracking ? Dans la recherche et l&amp;rsquo;analyse UX, les professionnel·le·s font appel à des individus pour mener des tests. Ceux-ci s&amp;rsquo;appellent tests UX et, même si certain se font sur le terrain, la plupart se font dans des laboratoires UX.
+Il y a plusieurs types de tests différents, selon les étapes auquelles le projet se trouve et les besoin. Il y a entre autre le A/B testing, le card sorting et l&#39;eye-tracking.
+Tous les tests, que se soit à distance ou en présentiel, se déroulent de la même manière.</description>
+    </item>
+    
+  </channel>
+</rss>

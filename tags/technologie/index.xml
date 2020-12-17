@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Technologie on Blog Olivia Pradervand</title><link>/tags/technologie/</link><description>Recent content in Technologie on Blog Olivia Pradervand</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&amp;copy; 2020 &lt;a href="https://www.wangchucheng.com/">C. Wang&lt;/a> and &lt;a href="https://www.ruiqima.com/">R. Ma&lt;/a></copyright><lastBuildDate>Sun, 06 Dec 2020 11:42:45 +0100</lastBuildDate><atom:link href="/tags/technologie/index.xml" rel="self" type="application/rss+xml"/><item><title>J'ai testé l'eye tracking. Ça s'est mal passé !</title><link>/posts/post6_experimentation/</link><pubDate>Sun, 06 Dec 2020 11:42:45 +0100</pubDate><guid>/posts/post6_experimentation/</guid><description>Qu&amp;rsquo;est-ce que l&amp;rsquo;eye-tracking ? Dans la recherche et l&amp;rsquo;analyse UX, les professionnel·le·s font appel à des individus pour mener des tests. Ceux-ci s&amp;rsquo;appellent tests UX et, même si certain se font sur le terrain, la plupart se font dans des laboratoires UX.
-Il y a plusieurs types de tests différents, selon les étapes auquelles le projet se trouve et les besoin. Il y a entre autre le A/B testing, le card sorting et l'eye-tracking.
-Tous les tests, que se soit à distance ou en présentiel, se déroulent de la même manière.</description></item><item><title>Et si les intelligences artificielles avaient un coeur?</title><link>/posts/post5_uxandai/</link><pubDate>Thu, 03 Dec 2020 10:37:45 +0100</pubDate><guid>/posts/post5_uxandai/</guid><description>Humaniser les IA Aujourd&amp;rsquo;hui, en scrollant les posts sur LinkedIn, je suis tombée sur un port intéressant de User-Intelligence. L&amp;rsquo;article datant du 1er décembre 2020 parle des intelligences artificielles. Ou plutôt, de comment les humaniser. Dans le post, il parle d&amp;rsquo;un livre sorti récemment sur le sujet. &amp;ldquo;AI and UX: Why Artificial Intelligence Needs User Experience&amp;rdquo;. J&amp;rsquo;ai trouvé le thème ultra intéressant et je l&amp;rsquo;ai tout de suite commandé.
-En attedant de recevoir mon livre, j&amp;rsquo;ai fais quelques recherches sur le sujet et j&amp;rsquo;ai trouvé plusieurs articles intéréssants.</description></item><item><title>IoT: Comment éviter que l'UX et l'UI ne tuent un produit</title><link>/posts/post4_iot/</link><pubDate>Wed, 02 Dec 2020 16:44:45 +0100</pubDate><guid>/posts/post4_iot/</guid><description>L&amp;rsquo;IoT design Quand on voit les mots UX/UI design, on pense directement à des applications mobiles ou des sites web. Tout ça va changer petit à petit avec l&amp;rsquo;évolution de l'IoT (Internet of Things). Les objets connectés deviendront de plus en plus présents dans la vie quotidienne et les interactions que les utilisateur·rice·s auront avec seront tout aussi importantes et présentes. Ce phénomène s&amp;rsquo;observe déjà par exemple avec les Smart TV ou les Apple Watch.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technologie on Blog Olivia Pradervand</title>
+    <link>https://olivia-prad.github.io/Blog-LabVeilTech/tags/technologie/</link>
+    <description>Recent content in Technologie on Blog Olivia Pradervand</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2020 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 06 Dec 2020 11:42:45 +0100</lastBuildDate><atom:link href="https://olivia-prad.github.io/Blog-LabVeilTech/tags/technologie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>J&#39;ai testé l&#39;eye tracking. Ça s&#39;est mal passé !</title>
+      <link>https://olivia-prad.github.io/Blog-LabVeilTech/posts/post6_experimentation/</link>
+      <pubDate>Sun, 06 Dec 2020 11:42:45 +0100</pubDate>
+      
+      <guid>https://olivia-prad.github.io/Blog-LabVeilTech/posts/post6_experimentation/</guid>
+      <description>Qu&amp;rsquo;est-ce que l&amp;rsquo;eye-tracking ? Dans la recherche et l&amp;rsquo;analyse UX, les professionnel·le·s font appel à des individus pour mener des tests. Ceux-ci s&amp;rsquo;appellent tests UX et, même si certain se font sur le terrain, la plupart se font dans des laboratoires UX.
+Il y a plusieurs types de tests différents, selon les étapes auquelles le projet se trouve et les besoin. Il y a entre autre le A/B testing, le card sorting et l&#39;eye-tracking.
+Tous les tests, que se soit à distance ou en présentiel, se déroulent de la même manière.</description>
+    </item>
+    
+    <item>
+      <title>Et si les intelligences artificielles avaient un coeur?</title>
+      <link>https://olivia-prad.github.io/Blog-LabVeilTech/posts/post5_uxandai/</link>
+      <pubDate>Thu, 03 Dec 2020 10:37:45 +0100</pubDate>
+      
+      <guid>https://olivia-prad.github.io/Blog-LabVeilTech/posts/post5_uxandai/</guid>
+      <description>Humaniser les IA Aujourd&amp;rsquo;hui, en scrollant les posts sur LinkedIn, je suis tombée sur un port intéressant de User-Intelligence. L&amp;rsquo;article datant du 1er décembre 2020 parle des intelligences artificielles. Ou plutôt, de comment les humaniser. Dans le post, il parle d&amp;rsquo;un livre sorti récemment sur le sujet. &amp;ldquo;AI and UX: Why Artificial Intelligence Needs User Experience&amp;rdquo;. J&amp;rsquo;ai trouvé le thème ultra intéressant et je l&amp;rsquo;ai tout de suite commandé.
+En attedant de recevoir mon livre, j&amp;rsquo;ai fais quelques recherches sur le sujet et j&amp;rsquo;ai trouvé plusieurs articles intéréssants.</description>
+    </item>
+    
+    <item>
+      <title>IoT: Comment éviter que l&#39;UX et l&#39;UI ne tuent un produit</title>
+      <link>https://olivia-prad.github.io/Blog-LabVeilTech/posts/post4_iot/</link>
+      <pubDate>Wed, 02 Dec 2020 16:44:45 +0100</pubDate>
+      
+      <guid>https://olivia-prad.github.io/Blog-LabVeilTech/posts/post4_iot/</guid>
+      <description>L&amp;rsquo;IoT design Quand on voit les mots UX/UI design, on pense directement à des applications mobiles ou des sites web. Tout ça va changer petit à petit avec l&amp;rsquo;évolution de l&#39;IoT (Internet of Things). Les objets connectés deviendront de plus en plus présents dans la vie quotidienne et les interactions que les utilisateur·rice·s auront avec seront tout aussi importantes et présentes. Ce phénomène s&amp;rsquo;observe déjà par exemple avec les Smart TV ou les Apple Watch.</description>
+    </item>
+    
+  </channel>
+</rss>
